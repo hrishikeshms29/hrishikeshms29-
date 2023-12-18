@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/hrishikeshms29" target="blank"><img src="https://img.shields.io/twitter/follow/hrishikeshms29?logo=twitter&style=for-the-badge" alt="hrishikeshms29" /></a> </p>
 
-- 🌱 I’m currently learning **mongo,django,express js , node js , kotlin**
-
 - 📫 How to reach me **hrishikeshms29@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
